@@ -40,6 +40,12 @@
                 "name": "Progress", 
                 "type": "progress"
             }
-        ]
+        ], 
+        "xml_attributes": {
+            "filename": [
+                "course/course.xml", 
+                "course/course.xml"
+            ]
+        }
     }
 }
