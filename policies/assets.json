@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "PCV-AU", 
+            "course": "chemsc11", 
             "name": "physical_chemistry.jpg", 
-            "org": "Amrita-University", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "physical_chemistry.jpg", 
-        "filename": "asset-v1:Amrita-University+PCV-AU+Anytime+type@asset+block@physical_chemistry.jpg", 
+        "filename": "asset-v1:Virtual-Labs+chemsc11+Anytime+type@asset+block@physical_chemistry.jpg", 
         "import_path": "physical_chemistry.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "Amrita-University", 
-            "PCV-AU", 
+            "Virtual-Labs", 
+            "chemsc11", 
             "thumbnail", 
             "physical_chemistry.jpg", 
             null
